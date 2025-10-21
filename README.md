@@ -2,7 +2,7 @@
 
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNhampxZnd1NzB6Zm5mdXZzZTY2bGY1aWh4bTA2OWhlZHc1Mmx2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WVNnyv96C3iltOFutg/giphy.gif"/>
 </p>
 
 <h1 align="center">HELLO 👋, This is Swarna</h1>
@@ -84,12 +84,11 @@ Excel | SQL | Python (Pandas, NumPy, Seaborn, Matplotlib) | Power BI | Tableau |
 
 ## 📂 Featured Projects  
 
-📊 **[Job Trends Dashboard in Power BI](#)** – Interactive dashboard tracking Job Trends, patterns & salary distributions.  
-🤖 **[Salary Prediction ML Model](#)** – Regression with feature engineering & performance metrics  
+📊 **[Job Trends Dashboard in Power BI](#)** – Interactive dashboard tracking Job Trends, patterns & salary distributions.   
 📉 **[Job Exploratory Data Analysis (EDA) in Python](#)** – Data cleaning, visualization & insights  
 
 📊 **[Ecommerce-Sales Dashboard in Power BI](#)** – Interactive dashboard tracking Sales Trends, patterns & Revenue distributions.  
-🤖 **[Price Prediction ML Model](#)** – Regression with feature engineering & performance metrics.  
+🤖 **[Price Prediction ML Model](#)** – Regression with feature engineering & performance metrics,Churn Analysis.  
 📉 **[Ecommerce Exploratory Data Analysis (EDA) in Python](#)** – Data cleaning, visualization & insights.
 📈 **[SQL Retail Analysis](#)** – Customer segmentation & purchasing patterns.  
 
