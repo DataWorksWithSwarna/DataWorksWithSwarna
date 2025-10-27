@@ -10,8 +10,6 @@
 
 ---
 
-⚡ *“Data is not just numbers, it’s a story waiting to be told.”*
-
 
 ### 💻 Skills I work with
 
