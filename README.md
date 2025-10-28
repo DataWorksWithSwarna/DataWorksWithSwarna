@@ -57,7 +57,7 @@
 
 ### 🧑‍💻 Freelance Data Analyst
 
-Juice Junction Bangalore
+Duration : 2 years
 
 **Role:** Data Analyst (Freelance)  
 **Key Responsibilities:**  
