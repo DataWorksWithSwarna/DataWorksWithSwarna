@@ -55,11 +55,12 @@
 
 ## 💼 Work Experience  
 
-### 🧑‍💻 Freelance Data Analyst
+### 🧑‍💻 Web Central - Data Analyst
+Australia
+Duration : 1 year, 10 months
 
-Duration : 2 years
+**Role:** Data Analyst
 
-**Role:** Data Analyst (Freelance)  
 **Key Responsibilities:**  
 -Collected, cleaned, and analyzed large volumes of sales, customer, and marketing data using Excel, SQL, and Python (Pandas, NumPy) to identify business trends and performance metrics.
 
