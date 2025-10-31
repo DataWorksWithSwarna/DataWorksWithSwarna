@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">HELLO 👋, This is Swarna</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Data into Insights 📊</h3>
+<h3 align="center">| Data Analyst |</h3>
 
 ---
 
