@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">HELLO 👋, This is Swarna</h1>
-<h3 align="center">| Data Analyst | JR. Data Scientist |</h3>
+<h3 align="center">| Data Analyst | Data Science & Predictive Analyst |</h3>
 
 ---
 
@@ -77,19 +77,14 @@ Duration : 1 year, 10 months
 -Conducted A/B analysis on promotional campaigns to evaluate their impact on conversion rates and revenue uplift.
 
 **Technical Skills:**
-Excel | SQL | Python (Pandas, NumPy, Seaborn, Matplotlib) | Power BI | Tableau | Data Cleaning | Data Visualization | Statistical Analysis | Dashboard Automation
+Excel | SQL | Python (Pandas, NumPy, Seaborn, Matplotlib) | Power BI | Tableau | Data Cleaning | Data Visualization | Statistical Analysis | Dashboard Automation | Machine Learning | 
 
 ---
 
 ## 📂 Featured Projects  
 
-📊 **[Job Trends Dashboard in Power BI](#)** – Interactive dashboard tracking Job Trends, patterns & salary distributions.   
-📉 **[Job Exploratory Data Analysis (EDA) in Python](#)** – Data cleaning, visualization & insights  
-
-📊 **[Ecommerce-Sales Dashboard in Power BI](#)** – Interactive dashboard tracking Sales Trends, patterns & Revenue distributions.  
-🤖 **[Price Prediction ML Model](#)** – Regression with feature engineering & performance metrics,Churn Analysis.  
-📉 **[Ecommerce Exploratory Data Analysis (EDA) in Python](#)** – Data cleaning, visualization & insights.
-📈 **[SQL Retail Analysis](#)** – Customer segmentation & purchasing patterns.  
+📊 **[Job Trends Analysis](#)** – Looking at **What the current scenario of IT jobs across the globe and in India are ?** Interactive dashboard tracking Job Trends, patterns & salary distributions.  
+📊 **[Multiple Ecommerce-Sale Analysis](#)** – **How is the business doing? What are the trends, seasonality and customer behaviour?** Interactive dashboard tracking Sales Trends, patterns & Revenue distributions.  
 
 ---
 
