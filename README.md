@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">HELLO 👋, This is Swarna</h1>
-<h3 align="center">| Data Analyst | Data Science & Predictive Analyst |</h3>
+<h3 align="center">| Data Analyst | Predictive Analyst |</h3>
 
 ---
 
@@ -39,14 +39,11 @@
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>
 </div>
 
-### 💻 Im upgrading myself currently on
-- Big Data Analytics
+### 💻 My interests are
+- Big Data Analytics and Data Science
 ###
 
 
@@ -85,6 +82,7 @@ Excel | SQL | Python (Pandas, NumPy, Seaborn, Matplotlib) | Power BI | Tableau |
 
 📊 **[Job Trends Analysis](#)** – Looking at **What the current scenario of IT jobs across the globe and in India are ?** Interactive dashboard tracking Job Trends, patterns & salary distributions.  
 📊 **[Multiple Ecommerce-Sale Analysis](#)** – **How is the business doing? What are the trends, seasonality and customer behaviour?** Interactive dashboard tracking Sales Trends, patterns & Revenue distributions.  
+📊 **[HR| Employee Performance Analysis](#)** – Looking at **What are the production rates of employees in an organization ?** Interactive dashboard tracking Productivity Trends and patterns in imporove and enhance organization's performance.  
 
 ---
 
