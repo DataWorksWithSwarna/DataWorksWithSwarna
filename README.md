@@ -38,12 +38,16 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript,css,nodejs,html,django,tailwindcss&theme=dark&perline=15" alt="My Skills" /></a>
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>
 </div>
 
 ### 💻 My interests are
 - Big Data Analytics and Data Science
+- Web Development
+- UI/UX Designing
+- Content Writing
+- Branding
 ###
 
 
