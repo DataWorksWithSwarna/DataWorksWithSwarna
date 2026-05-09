@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">HELLO 👋, This is Swarna</h1>
-<h3 align="center">| Data Analyst | Predictive Analyst |</h3>
+<h3 align="center">| Data Analyst | Predictive Analyst | Full Stack Web Developer | UI/UX Designer</h3>
 
 ---
 
@@ -54,35 +54,24 @@
 
 ### 🧑‍💻 Web Central - Data Analyst
 Australia
-Duration : 1 year, 10 months
 
-**Role:** Data Analyst
+### 🧑‍💻 Upwork - Web Developer
+Australia, India
 
-**Key Responsibilities:**  
--Collected, cleaned, and analyzed large volumes of sales, customer, and marketing data using Excel, SQL, and Python (Pandas, NumPy) to identify business trends and performance metrics.
-
--Designed and automated Excel dashboards for weekly and monthly sales reporting, reducing manual work by 40%.
-
--Wrote complex SQL queries to extract insights from customer purchase behavior, repeat orders, and regional sales performance across multiple databases.
-
--Used Python (Pandas, Seaborn, Matplotlib) to perform exploratory data analysis (EDA) and visualize trends in revenue, product performance, and seasonal demand fluctuations.
-
--Developed interactive dashboards in Power BI and Tableau, integrating real-time data feeds to help the management team make informed decisions about inventory, marketing campaigns, and pricing strategies.
-
--Collaborated with the marketing and operations teams to translate analytical findings into actionable business recommendations, such as optimizing discount structures and improving customer retention.
-
--Conducted A/B analysis on promotional campaigns to evaluate their impact on conversion rates and revenue uplift.
 
 **Technical Skills:**
-Excel | SQL | Python (Pandas, NumPy, Seaborn, Matplotlib) | Power BI | Tableau | Data Cleaning | Data Visualization | Statistical Analysis | Dashboard Automation | Machine Learning | 
+Excel | SQL | Python (Pandas, NumPy, Seaborn, Matplotlib) | Power BI | Tableau | Data Cleaning | Data Visualization | Statistical Analysis | Dashboard Automation | Machine Learning | Full Stack Web Development | HTML5 | CSS3 | JS | Django | Bootstrap | TailwindCSS 
 
 ---
 
 ## 📂 Featured Projects  
 
-📊 **[Job Trends Analysis](#)** – Looking at **What the current scenario of IT jobs across the globe and in India are ?** Interactive dashboard tracking Job Trends, patterns & salary distributions.  
-📊 **[Multiple Ecommerce-Sale Analysis](#)** – **How is the business doing? What are the trends, seasonality and customer behaviour?** Interactive dashboard tracking Sales Trends, patterns & Revenue distributions.  
-📊 **[HR| Employee Performance Analysis](#)** – Looking at **What are the production rates of employees in an organization ?** Interactive dashboard tracking Productivity Trends and patterns in imporove and enhance organization's performance.  
+📊 **[Job Trends Analysis](#)** – Looking at **What the current scenario of IT jobs across the globe and in India is?** Interactive dashboard tracking Job Trends, patterns & salary distributions.  
+📊 **[Multiple Ecommerce-Sale Analysis](#)** – **How is the business doing? What are the trends, seasonality, and customer behaviour?** Interactive dashboard tracking Sales Trends, patterns & Revenue distributions.  
+📊 **[HR| Employee Performance Analysis](#)** – Looking at **What are the production rates of employees in an organization ?** Interactive dashboard tracking Productivity Trends and patterns in improving and enhancing the organization's performance.  
+📊 **[E-commerce Web Application (Support & Development)](#)**  - Developed an e-commerce platform with dynamic product listings and user authentication,
+Integrated backend functionality using Django and SQL databases, improved UI/UX design for better conversion rates and user flow, Optimized website performance, and reduced loading speed by 5%
+📊 **[Business Website Development & Branding](#)**
 
 ---
 
