@@ -1,10 +1,4 @@
 
-
-<!-- Header GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNhampxZnd1NzB6Zm5mdXZzZTY2bGY1aWh4bTA2OWhlZHc1Mmx2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WVNnyv96C3iltOFutg/giphy.gif"/>
-</p>
-
 <h1 align="center">HELLO 👋, This is Swarna</h1>
 <h3 align="center">| Data Analyst | Predictive Analyst | Full Stack Web Developer | UI/UX Designer</h3>
 
