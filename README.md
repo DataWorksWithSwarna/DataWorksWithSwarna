@@ -48,15 +48,6 @@
 
 ---
 
-## 💼 Work Experience  
-
-### 🧑‍💻 Web Central - Data Analyst
-Australia
-
-### 🧑‍💻 Upwork - Web Developer
-Australia, India
-
-
 **Technical Skills:**
 Excel | SQL | Python (Pandas, NumPy, Seaborn, Matplotlib) | Power BI | Tableau | Data Cleaning | Data Visualization | Statistical Analysis | Dashboard Automation | Machine Learning | Full Stack Web Development | HTML5 | CSS3 | JS | Django | Bootstrap | TailwindCSS 
 
